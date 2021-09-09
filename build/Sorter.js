@@ -3,6 +3,11 @@
 // import { CharactersCollection } from "./CharactersCollection";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.Sorter = void 0;
+// interface Sortable {
+//   length: number;
+//   compare(leftIndex: number, rightIndex: number): boolean;
+//   swap(leftIdnex: number, rightIndex: number): void;
+// }
 var Sorter = /** @class */ (function () {
     function Sorter() {
     }
